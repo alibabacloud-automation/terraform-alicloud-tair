@@ -2,9 +2,7 @@
 
 English | [简体中文](https://github.com/alibabacloud-automation/terraform-alicloud-tair/blob/main/README-CN.md)
 
-Terraform module which creates [Tair (Redis OSS-Compatible)](https://www.alibabacloud.com/help/en/tair/) instance on Alibaba Cloud.
-
-This module provides similar functionality to Google Cloud Memorystore Redis, enabling you to provision a fully managed, in-memory data store that is compatible with open-source Redis.
+Terraform module which creates [Tair (Redis OSS-Compatible)](https://www.alibabacloud.com/help/en/tair/) instance on Alibaba Cloud. This module provides similar functionality to Google Cloud Memorystore Redis, enabling you to provision a fully managed, in-memory data store that is compatible with open-source Redis.
 
 ## Usage
 

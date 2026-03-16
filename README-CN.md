@@ -2,9 +2,7 @@
 
 [English](https://github.com/alibabacloud-automation/terraform-alicloud-tair/blob/main/README.md) | 简体中文
 
-在阿里云上创建 [Tair（Redis OSS 兼容版）](https://www.alibabacloud.com/help/en/tair/) 实例的 Terraform 模块。
-
-本模块提供与 Google Cloud Memorystore Redis 类似的功能，支持创建完全托管的、兼容开源 Redis 的内存数据存储服务。
+在阿里云上创建 [Tair（Redis OSS 兼容版）](https://www.alibabacloud.com/help/en/tair/) 实例的 Terraform 模块。本模块提供与 Google Cloud Memorystore Redis 类似的功能，支持创建完全托管的、兼容开源 Redis 的内存数据存储服务。
 
 ## 使用方法
 
